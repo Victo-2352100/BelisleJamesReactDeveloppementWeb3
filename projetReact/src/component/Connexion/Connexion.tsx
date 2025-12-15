@@ -6,6 +6,7 @@ import { appStyles } from '../../styles/styles';
 function Connexion() {
   const [email, setEmail] = useState('');
   const [motPasse, setMotPasse] = useState('');
+  async function connecter() {}
   return (
     <div className={appStyles.page}>
       <BarreNav />
