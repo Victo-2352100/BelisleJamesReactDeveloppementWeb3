@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "axios": "^1.13.2",
+    "react-intl": "^7.1.14",
+    "react-router-dom": "^7.9.6",
+    "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
+  }
+}
