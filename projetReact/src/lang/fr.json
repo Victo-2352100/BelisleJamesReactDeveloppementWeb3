@@ -42,5 +42,9 @@
   "app.erreur.fablesConstellation": "La constellation doit contenir au moins 3 fables.",
   "app.erreur.formulaire": "Le formulaire contient des erreurs. Veuillez les corriger avant de confirmer.",
   "app.liste.erreurListe": "Il y a eu une erreur lors de la recherche des données sur les constellations",
-  "app.liste.titre": "Liste des constellations"
+  "app.liste.titre": "Liste des constellations",
+  "app.connexion.confirmer": "Confirmer?",
+  "app.connexion.deconnexion": "Se déconnecter?",
+  "app.ajout.titre": "Ajouter une constellation (incomplet)",
+  "app.element.erreurSuppression": "Erreur lors de la suppression"
 }
